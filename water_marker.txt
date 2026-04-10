@@ -1,1 +1,1 @@
-{"text":"satana","enabled":true,"alpha":95,"size":0.04980198}
+{"text":"satana","enabled":true,"alpha":40,"size":0.034800477}
